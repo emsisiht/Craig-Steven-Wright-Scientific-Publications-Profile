@@ -27,7 +27,7 @@ The indicators could be compared to his coauthor at Charles Sturt University, Ta
 * Zia, Tanveer - Charles Sturt University - [Scopus Author ID: 15064879400](https://www.scopus.com/authid/detail.uri?authorId=15064879400)
 * Indexed documents: 63
 * Total citations: 326
-* h-index: 3
+* h-index: 9
 
 Gide2Research website has a [ranking for Computer Science and Electronics scientists](http://www.guide2research.com/scientists). The first scientists in the ranking is Anil K. Jain (Michigan State University, USA):
 
