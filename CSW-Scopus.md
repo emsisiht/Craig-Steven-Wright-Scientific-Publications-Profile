@@ -1,6 +1,6 @@
 # Craig Steven Wright - Scientific Publications Profile on Scopus
 
-Four different [Scopus](www.scopus.com) profiles could be associated  with Craig Wright:
+Four different [Scopus](www.scopus.com) profiles could be associated  with Craig Wright (Scopus information was gathered on 04/06/2019)):
 
 * Wright, Craig - unknown affiliation [Scopus Author ID: 56844330900](https://www.scopus.com/authid/detail.uri?authorId=56844330900)
     * Indexed documents: 1
@@ -67,6 +67,3 @@ The Gide2Research ranks the 1000 best Computer Science and Electronics scientist
 
 ![Wright, Craig Steven - h-index](img/h-index.png)
 
-
-
-(NOTE: Scopus information was gathered on 04/06/2019)
