@@ -21,6 +21,7 @@ Combining all profiles, we get:
 * Total citations: 48
 * [h-index](https://en.wikipedia.org/wiki/H-index): 3 (3 documents with 3 or more citations)
     
+## Comparison with other profiles
 
 The indicators could be compared to his coauthor at Charles Sturt University, Tanveer Zia:
 
